@@ -1,0 +1,17 @@
+﻿City 1,City 2,Weight
+Boston,Boston,0
+Boston,London,3
+Boston,Mumbai,4.5
+Botson,Shanghai,7.8
+London,Boston,3
+London,London,0
+London,Mumbai,0
+London,Shanghai,5.7
+Mumbai,Boston,7.5
+Mumbai,London,4.5
+Mumbai,Mumbai,0
+Mumbai,Shanghai,3.1
+Shanghai,Boston,7.8
+Shanghai,London,5.7
+Shanghai,Mumbai,3.1
+Shanghai,Shanghai,0
